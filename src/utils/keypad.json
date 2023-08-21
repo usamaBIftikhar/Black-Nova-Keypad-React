@@ -1,0 +1,10 @@
+{
+    "artname":"N/A",
+    "protocol":"KNX",
+    "backgroundType":"COLOR",
+    "background":{
+        "backgroundColor":"black",
+        "backgroundImage":null
+    },
+    "frame":[]
+}

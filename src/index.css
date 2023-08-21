@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding:0px;
+  font-family: 'Poppins';
+  box-sizing: border-box;
+}
+
+
+@keyframes move-lr {
+  0%{
+    width:0%;
+  }
+  100%{
+    width: 100%;
+  }
+}

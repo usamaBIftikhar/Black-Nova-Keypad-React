@@ -1,0 +1,54 @@
+{
+    "categories" :[
+        {
+            "name": "brand",
+            "icons":[
+                "resources/icons/brands/adn.svg",
+                "resources/icons/brands/accusoft.svg",
+                "resources/icons/brands/adversal.svg",
+                "resources/icons/brands/airbnb.svg",
+                "resources/icons/brands/apple.svg",
+                "resources/icons/brands/amazon.svg",
+                "resources/icons/brands/amazon-pay.svg",
+                "resources/icons/brands/android.svg",
+                "resources/icons/brands/angular.svg",
+                "resources/icons/brands/apper.svg"
+            ]
+        },
+        {
+            "name": "solid",
+            "icons":[
+                "resources/icons/solid/0.svg",
+                "resources/icons/solid/1.svg",
+                "resources/icons/solid/atom.svg",
+                "resources/icons/solid/3.svg",
+                "resources/icons/solid/baby.svg",
+                "resources/icons/solid/archway.svg",
+                "resources/icons/solid/arrow-down-9-1.svg",
+                "resources/icons/solid/arrow-down-a-z.svg",
+                "resources/icons/solid/arrow-left.svg",
+                "resources/icons/solid/arrow-down-long.svg"
+            ]
+
+        },
+        {
+            "name": "regular",
+            "icons":[
+                "resources/icons/regular/address-book.svg",
+                "resources/icons/regular/address-card.svg",
+                "resources/icons/regular/bell.svg",
+                "resources/icons/regular/building.svg",
+                "resources/icons/regular/chess-king.svg",
+                "resources/icons/regular/chess-rook.svg",
+                "resources/icons/regular/circle-left.svg",
+                "resources/icons/regular/circle-play.svg",
+                "resources/icons/regular/circle-question.svg",
+                "resources/icons/regular/circle-right.svg",
+                "resources/icons/regular/circle-stop.svg",
+                "resources/icons/regular/clone.svg",
+                "resources/icons/regular/clock.svg",
+                "resources/icons/regular/compass.svg"
+            ]
+        }
+    ]
+}

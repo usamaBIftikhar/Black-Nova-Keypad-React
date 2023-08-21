@@ -1,0 +1,10 @@
+
+{
+    "id": null,
+    "type":"BUTTON",
+    "iconType": "none",
+    "style":"TEXT",
+    "fill" : "#808080",
+    "icon": "resources/icons/regular/building.svg",
+    "text": "Light"
+}
